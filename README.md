@@ -1,16 +1,23 @@
 ﻿<div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Rithesh!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Web%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=55&descSize=16" width="100%"/>
+<!-- BIG ANIMATED NAME BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:0D1117&height=220&section=header&text=RITHESH&fontSize=90&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20%7C%20Cloud%20Computing&descAlignY=62&descSize=18&descColor=C9D1D9" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+cool+stuff+on+the+web+🚀;JavaScript+%7C+TypeScript+%7C+Python;Open+Source+Enthusiast+💡;Always+learning%2C+always+building+🔨" alt="Typing SVG" />
-</a>
+<!-- Glowing Name Subtitle -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Rithesh+R!;Full+Stack+Developer+🚀;AI+%2F+ML+Explorer+🤖;Cloud+Computing+Engineer+☁️;Open+Source+Contributor+💡" alt="Typing SVG" />
+</h1>
 
-<br/><br/>
+<!-- Role Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-58A6FF?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-4CAF50?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
-<!-- Profile Views & Socials -->
+<br/>
+
+<!-- Profile Views & Followers -->
 <a href="https://github.com/Rithesh0115">
   <img src="https://komarev.com/ghpvc/?username=Rithesh0115&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </a>
@@ -27,11 +34,15 @@
 ```javascript
 const rithesh = {
   username:    "Rithesh0115",
-  role:        "Full-Stack Web Developer",
-  languages:   ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
-  frameworks:  ["Node.js", "React", "Express"],
-  interests:   ["Web Games", "APIs", "Healthcare Tech", "Open Source"],
-  currentlyLearning: "TypeScript & Advanced Backend Development",
+  roles:       ["Full Stack Developer", "AI/ML Engineer", "Cloud Computing"],
+  languages:   ["C", "C++", "Java", "Python", "JavaScript", "TypeScript"],
+  frontend:    ["HTML5", "CSS3", "React", "Next.js", "Tailwind", "Bootstrap"],
+  backend:     ["Node.js", "Express.js", "REST APIs"],
+  databases:   ["PostgreSQL", "MongoDB", "MySQL", "Firebase", "SQLite", "NeonDB"],
+  cloud:       ["Google Cloud", "Firebase", "Supabase"],
+  tools:       ["Git", "GitHub", "VS Code", "Figma", "Postman", "Linux"],
+  interests:   ["Web Apps", "AI/ML Models", "Cloud Architecture", "Open Source"],
+  currentlyLearning: "Machine Learning, Cloud Architecture & System Design",
   funFact:     "I built a neon-themed Snake game — from scratch! 🐍",
 };
 ```
@@ -80,6 +91,7 @@ const rithesh = {
       </p>
       <p align="center">A REST API providing <strong>Ayurvedic remedies and health data</strong> — bridging traditional medicine with modern tech.</p>
       <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/API-0052CC?style=flat-square&logo=fastapi&logoColor=white"/>
       </p>
     </td>
@@ -105,21 +117,23 @@ const rithesh = {
 
 <div align="center">
 
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
+
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
 
-### ⚙️ Backend & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### ⚙️ Backend & Runtime
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,sqlite,gcp&theme=dark" />
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+
+### 🧰 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" />
 
 </div>
 
@@ -164,6 +178,8 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<br/><br/>
+
 > _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
 
 </div>
@@ -171,5 +187,5 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:0D1117&height=120&section=footer" width="100%"/>
 </div>
