@@ -1,7 +1,7 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- BIG ANIMATED NAME BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:0D1117&height=220&section=header&text=RITHESH&fontSize=90&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20%7C%20Cloud%20Computing&descAlignY=62&descSize=18&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20&height=220&section=header&text=RITHESH&fontSize=90&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20%7C%20Cloud%20Computing&descAlignY=62&descSize=18&descColor=ffffff" width="100%"/>
 
 <!-- Glowing Name Subtitle -->
 <h1>
@@ -10,7 +10,7 @@
 
 <!-- Role Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-58A6FF?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-58A6FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Computing-4CAF50?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
@@ -130,7 +130,7 @@ const rithesh = {
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,sqlite,gcp&theme=dark" />
 
 ### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 
 ### 🧰 Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" />
@@ -187,5 +187,5 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:0D1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20&height=120&section=footer" width="100%"/>
 </div>
