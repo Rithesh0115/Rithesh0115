@@ -5,7 +5,7 @@
 
 <!-- Glowing Name Subtitle -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Rithesh+R!;Full+Stack+Developer;AI+%2F+ML+Explorer;Cloud+Computing+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Rithesh!;Full+Stack+Developer;AI+%2F+ML+Explorer;Cloud+Computing+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <!-- Role Badges -->
