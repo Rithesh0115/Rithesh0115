@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<div align="center">
+﻿<div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Rithesh!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Web%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=55&descSize=16" width="100%"/>
@@ -174,21 +173,3 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
-=======
-## Hi there 👋
-
-<!--
-**Rithesh0115/Rithesh0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 0f6ac4b934c36575eba984da610568b900229b5e
