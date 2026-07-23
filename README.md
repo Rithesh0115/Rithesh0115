@@ -176,12 +176,12 @@ const rithesh = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rithesh0115&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithesh0115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rithesh0115&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithesh0115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=2"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithesh0115&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF4500&currStreakLabel=58A6FF&v=1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithesh0115&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF4500&currStreakLabel=58A6FF&v=2" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -189,7 +189,7 @@ const rithesh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rithesh0115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rithesh0115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&v=2" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -197,7 +197,7 @@ const rithesh = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&v=1" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&v=2" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -209,13 +209,13 @@ const rithesh = {
 I'm always open to interesting conversations, collaboration opportunities, or just a friendly chat!
 
 <a href="https://github.com/Rithesh0115">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/ritheshputtur">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://x.com/ritheshputtur">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
 </a>
 
 <br/><br/>
