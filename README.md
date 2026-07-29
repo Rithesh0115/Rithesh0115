@@ -209,11 +209,6 @@ const rithesh = {
   <img src="https://img.shields.io/badge/Repos%20Created%20(Jul%2026)-9-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<!-- Full-year GitHub Contribution Calendar (heatmap) -->
-<img src="https://ghchart.rshah.org/58A6FF/Rithesh0115" alt="GitHub Contribution Chart" width="100%"/>
-
-<br/>
-
 <!-- Snake animation (auto-updated every 12h) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rithesh0115/Rithesh0115/output/dist/github-contribution-grid-snake-dark.svg">
@@ -223,8 +218,8 @@ const rithesh = {
 
   <br/>
 
-<!-- Full-year activity line graph (365 days) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4500&area=true&area_color=0d2a4a&hide_border=true&radius=6&custom_title=Rithesh%27s%20Contribution%20Activity%20(Last%2012%20Months)" alt="Contribution Activity Graph" width="100%"/>
+<!-- Live Activity Graph — always reflects latest contributions -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4500&area=true&area_color=0d2a4a&hide_border=true&radius=6&custom_title=Rithesh%27s%20Contribution%20Activity" alt="Contribution Graph" width="100%"/>
 
 </div>
 
