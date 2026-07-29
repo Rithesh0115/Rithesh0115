@@ -219,7 +219,7 @@ const rithesh = {
   <br/>
 
 <!-- Live Activity Graph — always reflects latest contributions -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4500&area=true&area_color=0d2a4a&hide_border=true&radius=6&custom_title=Rithesh%27s%20Contribution%20Activity" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=39d353&line=39d353&point=FFFFFF&area=true&area_color=0e4429&hide_border=true&radius=6&custom_title=Rithesh%27s%20Contribution%20Activity" alt="Contribution Graph" width="100%"/>
 
 </div>
 
