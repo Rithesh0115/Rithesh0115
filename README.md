@@ -202,6 +202,14 @@ const rithesh = {
 
 <div align="center">
 
+<!-- Contribution highlights from actual GitHub data -->
+<p>
+  <img src="https://img.shields.io/badge/Contributions%20(Last%20Year)-192-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/July%202026%20Commits-156-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repos%20Created%20(Jul%2026)-9-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<!-- Snake animation (auto-updated every 12h) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rithesh0115/Rithesh0115/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rithesh0115/Rithesh0115/output/dist/github-contribution-grid-snake.svg">
@@ -210,7 +218,8 @@ const rithesh = {
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1e3a5f&hide_border=true" alt="Contribution Graph" width="100%"/>
+<!-- Live Activity Graph — always reflects latest contributions -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4500&area=true&area_color=0d2a4a&hide_border=true&radius=6&custom_title=Rithesh%27s%20Contribution%20Activity" alt="Contribution Graph" width="100%"/>
 
 </div>
 
