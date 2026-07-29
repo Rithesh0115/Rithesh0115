@@ -197,7 +197,14 @@ const rithesh = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&v=2" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rithesh0115/Rithesh0115/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rithesh0115/Rithesh0115/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rithesh0115/Rithesh0115/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
+  <!-- Fallback activity graph in case snake hasn't generated yet -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&v=2" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
