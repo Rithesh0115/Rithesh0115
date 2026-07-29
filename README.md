@@ -157,13 +157,13 @@ const rithesh = {
 ### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
 
-### ⚙️ Backend & Runtime
+### ⚡ Backend & Runtime
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 ### 🗄️ Databases & Cloud
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,sqlite,gcp&theme=dark" />
 
-### 🤖 AI / ML
+### 🧠 AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 
 ### 🧰 Tools & DevOps
@@ -176,12 +176,16 @@ const rithesh = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rithesh0115&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithesh0115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=2"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rithesh0115&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithesh0115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithesh0115&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF4500&currStreakLabel=58A6FF&v=2" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com/?user=Rithesh0115&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF4500&currStreakLabel=58A6FF&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak"/>
+
 </div>
 
 ---
@@ -189,7 +193,7 @@ const rithesh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rithesh0115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&v=2" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Rithesh0115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -197,14 +201,17 @@ const rithesh = {
 ## 📈 Contribution Graph
 
 <div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rithesh0115/Rithesh0115/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rithesh0115/Rithesh0115/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rithesh0115/Rithesh0115/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rithesh0115/Rithesh0115/output/dist/github-contribution-grid-snake-dark.svg">
   </picture>
+
   <br/>
-  <!-- Fallback activity graph in case snake hasn't generated yet -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&v=2" alt="Contribution Graph" width="100%"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithesh0115&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1e3a5f&hide_border=true" alt="Contribution Graph" width="100%"/>
+
 </div>
 
 ---
