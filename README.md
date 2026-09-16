@@ -59,7 +59,7 @@ const rithesh = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🩺 Mediq.io</h3>
+      <h3 align="center">🩺 AyuDost</h3>
       <p align="center">
         <a href="https://github.com/Rithesh0115/mediq.io" target="_blank">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
