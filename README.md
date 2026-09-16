@@ -151,22 +151,11 @@ const rithesh = {
 
 <div align="center">
 
-### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
-
-### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-
-### ⚡ Backend & Runtime
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-### 🗄️ Databases & Cloud
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,sqlite,gcp&theme=dark" />
-
-### 🧠 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-
-### 🧰 Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" />
 
 </div>
