@@ -48,7 +48,6 @@ const rithesh = {
   tools:       ["Git", "GitHub", "VS Code", "Figma", "Postman", "Linux"],
   interests:   ["Web Apps", "AI/ML Models", "Cloud Architecture", "Open Source"],
   currentlyLearning: "Machine Learning, Cloud Architecture & System Design",
-  funFact:     "I built a neon-themed Snake game — from scratch! 🐍",
 };
 ```
 
